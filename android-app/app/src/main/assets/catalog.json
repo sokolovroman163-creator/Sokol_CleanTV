@@ -1,0 +1,2317 @@
+[
+  {
+    "brand": "Acer",
+    "tv": "Acer R3 (SCBC device R3, Realtek rtd2841a), India",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Acer",
+    "tv": "Acer P Series AR32AP2841HDFL 32\" HD (SCBC R1, Realtek RTD2841), India",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Acer",
+    "tv": "Acer AR32HDIGU2841AT 32\" HD (device R3_GTV, MOKA, Realtek RTD2841A), India",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Acer",
+    "tv": "Acer AR55AR2851UDPRO 55\" (SCBC R4, Realtek rtd2851m), India",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "AiPro2K",
+    "tv": "AiPro2K (Expressluck, dongnae; Changhong AI PONT family)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "AiPro4K",
+    "tv": "AiPro4K (Expressluck, sepolia; Changhong AI PONT family)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "AIWA",
+    "tv": "AIWA AI PONT SA (Changhong, osaka, ISDB86AW)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Alwtniet",
+    "tv": "Alwtniet HY320 Mini projector (device adt3, Askey; Allwinner/HTC firmware), 1 GB, 720p",
+    "os": "Android 11"
+  },
+  {
+    "brand": "Amazon Fire TV",
+    "tv": "Amazon Fire TV, AFTDEC012E (ginza), Android 11",
+    "os": "Android 11 / Fire OS"
+  },
+  {
+    "brand": "Amazon Fire TV",
+    "tv": "Amazon Fire TV smart TV (AFTEU014, greta, MediaTek m7322), Germany",
+    "os": "Fire OS 7.6.8.5 / Android 9"
+  },
+  {
+    "brand": "Amazon Fire TV",
+    "tv": "Amazon Fire TV 4K smart TV, 50\" and 75\" Omni Series (AFTTIFF43, brandenburg)",
+    "os": "Fire OS 7.7.1.4 / 7.7.1.7, Android 9"
+  },
+  {
+    "brand": "Amazon Fire TV",
+    "tv": "Amazon Fire TV Stick, 3rd gen 2020 (AFTSSS, sheldonp), India",
+    "os": "Fire OS 7.7.1.7 / Android 9"
+  },
+  {
+    "brand": "Amazon Fire TV",
+    "tv": "Amazon Fire TV Stick 4K, 1st gen 2018 (AFTMM, mantis)",
+    "os": "Fire OS 6.7.1.1 / Android 7.1"
+  },
+  {
+    "brand": "Amazon Fire TV",
+    "tv": "Amazon Fire TV Stick 4K, 2nd gen 2023 (AFTKM, karat), Brazil",
+    "os": "Fire OS 8.1.8.5 / Android 11"
+  },
+  {
+    "brand": "Amazon Fire TV",
+    "tv": "Amazon Fire TV Stick 4K Max, 1st gen 2021 (AFTKA, kara), Colombia",
+    "os": "Fire OS 7.7.1.3 / Android 9"
+  },
+  {
+    "brand": "Amazon Fire TV",
+    "tv": "Amazon Fire TV Stick 4K Max, 2nd gen 2023 (AFTKRT, karat), Indonesia",
+    "os": "Fire OS 8.1.8.5 / Android 11"
+  },
+  {
+    "brand": "Amazon Fire TV",
+    "tv": "Amazon Fire TV Stick Lite, 1st gen 2020 (AFTSS, sheldon)",
+    "os": "Fire OS 7.7.1.7 / Android 9"
+  },
+  {
+    "brand": "Anker Nebula",
+    "tv": "Anker Nebula Cosmos projector D2140 (D2140-Cosmos, SDMC/Amlogic, 2 GB), Vietnam",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Anker Nebula",
+    "tv": "Anker Nebula projector D2426 (D2426_CapsuleIIIPro, baekdu, SDMC/MediaTek m7632, 1.7 GB), Brazil",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Anker Nebula",
+    "tv": "Anker Nebula Mars 3 Air projector D2325 (Nebula_Mars_2_V2, taihang, MediaTek m7332), Portugal",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "AQUA",
+    "tv": "AQUA MatrixTV EE 50\" 4K (Haier, AQ9676EU, omonia, MediaTek), Indonesia",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Artel",
+    "tv": "Artel 43D1200B (Yandex TV / YaOS, CVTE, MediaTek m5621), Uzbekistan",
+    "os": "Android 9"
+  },
+  {
+    "brand": "Artel",
+    "tv": "Artel A55LU8500 (device R3GS, MOKA, Realtek RTD2841A), Uzbekistan",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Artel",
+    "tv": "Artel smart TV (CVTE TP.MT5510S.PB782, cvt_mt5863_eu, SMART_TV), Uzbekistan",
+    "os": "Android 7.0"
+  },
+  {
+    "brand": "ASUS",
+    "tv": "ASUS M1G Google TV (MOKA, dahu, Realtek RTD2851F), US",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Beko",
+    "tv": "Beko B43B880B (Arçelik, sinchon, MediaTek), Turkey",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Bell Canada",
+    "tv": "Bell Fibe TV (ARRIS VIP7802)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "BenQ",
+    "tv": "BenQ E55-735 (Changhong AI PONT, DVB96BQ)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "BenQ",
+    "tv": "BenQ E55-750 (Changhong AI PONT, DVB96BQ)",
+    "os": "Google TV (Android 11)"
+  },
+  {
+    "brand": "BenQ",
+    "tv": "BenQ E55-760 (Changhong AI PONT, GTVU64BQ, board alimos)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "BenQ",
+    "tv": "BenQ GV32 portable projector (SDMC, BenQ_GV01, himalaya, MediaTek m7332)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "BenQ",
+    "tv": "BenQ QS01 Android TV dongle for BenQ projectors (Inspur, Amlogic S905Y2, 2 GB)",
+    "os": "Android TV 12"
+  },
+  {
+    "brand": "BenQ",
+    "tv": "BenQ QS02 Android TV stick for BenQ projectors (SDMC, YUL, Amlogic S905Y4, 2 GB)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "BGH",
+    "tv": "BGH Smart TV (reported model; UKNV.260821.001)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "BYINTEK",
+    "tv": "BYINTEK T5 Max projector (built-in Google TV stick: SkyworthDigital YYT, Amlogic), Brazil",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "BYINTEK",
+    "tv": "BYINTEK Love U4 projector, 1080P (Skyworth RG_HS352, HiSilicon Hi3751V350, 1 GB), Brazil",
+    "os": "Android 9"
+  },
+  {
+    "brand": "Haier",
+    "tv": "CANDY Android TV DVB (Haier, MediaTek m7332)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Caxium",
+    "tv": "Caxium 58\" 147 cm UHD Smart TV (Realtek RTD285O, RTK2851P, TopTech + Zeasn), Colombia",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Cecotec",
+    "tv": "Cecotec VQU10065S 65\" QLED (Vestel-built, shandao, MediaTek), Spain",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Challenger",
+    "tv": "Challenger 32T22 BT (cvt_mt5863_col, board TP.MT5510.PB781, MediaTek MT5659, 1 GB RAM), Colombia",
+    "os": "Android 7.0"
+  },
+  {
+    "brand": "Challenger",
+    "tv": "Challenger R3 (SCBC R3, Realtek rtd2841a, 1.5 GB RAM), Colombia",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Chihi",
+    "tv": "Chihi HX P30 projector (Allwinner H713, h713m_tuna_p3, 1 GB)",
+    "os": "Android 11"
+  },
+  {
+    "brand": "CHiQ",
+    "tv": "CHiQ AI PONT (DVB93CQ); also OK. ODL 43951UC-TAB (DVB93KO), Changhong AI PONT (ikebukuro)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "CHiQ",
+    "tv": "CHiQ AI PONT (Changhong GTVU65, dangni, MediaTek mt5867); also CHiQ L32FM10V",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Compac",
+    "tv": "Compac ATV R2 (SCBC R2, Realtek RTD285O)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth Coocaa K3 Pro 90P3D Max (8R145_P3DM, Realtek RTD2885N), China market",
+    "os": "Android 11 (Coocaa OS)"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Coocaa P9 projector (MediaTek mt5862), China",
+    "os": "Android 9 (Coocaa OS)"
+  },
+  {
+    "brand": "Dcolor",
+    "tv": "Dcolor GD2 (YHT)",
+    "os": "Google TV 14 (SDK 34)"
+  },
+  {
+    "brand": "DEXP",
+    "tv": "DEXP 65UHG2 (HKC 4K PA Google TV, HKC_4K_GTV_PA, lakeside)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "DEXP",
+    "tv": "DEXP A651 (Changhong AI PONT, longshan); also Hyundai AI PONT",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Dialog",
+    "tv": "Dialog ViU (SEI Robotics SEI103DL, Amlogic, NES middleware), Sri Lanka",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Durabrand",
+    "tv": "Durabrand DB Android TV 4K (DURAT32ISDB, dupont, m7332 Haier/CVTE)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "DYON",
+    "tv": "DYON 2K Android TV (MTC, komagome, MediaTek m5621), Germany",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "EKO",
+    "tv": "EKO 2K Google TV (MTC-built, tennoji, MediaTek mt5867 / T56)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "EKO",
+    "tv": "EKO 4K Android TV (bangbae, MTC, MediaTek)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Epson",
+    "tv": "Epson LS800 laser projector (Askey HA90 module, sti6202d101, Amlogic)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Essentiel b",
+    "tv": "Essentiel b R3 (SCBC device R3, Realtek rtd2841a), France",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "FFalcon",
+    "tv": "FFalcon (雷鸟) 鹤6 PRO 65S585C Pro (China, tcl_mt5879_cn, MediaTek MT9653)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "FFalcon",
+    "tv": "FFalcon (雷鸟) 鹏6 55S375C (China, 55\" 4K, tc8000_ay30a2, Amlogic ohm TC8000, 3 GB)",
+    "os": "Android 11"
+  },
+  {
+    "brand": "FFalcon",
+    "tv": "FFalcon (雷鸟) r34a0, China (V8-A920T01-LF1V147, Amlogic T920), 1 GB",
+    "os": "Android 5.1.1"
+  },
+  {
+    "brand": "Formovie",
+    "tv": "Formovie Laser 4K projector / Formovie Theater (hanlla, MediaTek T31 / m7632, 1.8 GB)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Formovie",
+    "tv": "Formovie / Fengmi projector MiProjM05 (eva, Amlogic)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Formovie",
+    "tv": "Formovie Theater (L206FGN-X2, koroli, MediaTek m7632)",
+    "os": "Android TV 11 (Google TV home)"
+  },
+  {
+    "brand": "Formovie",
+    "tv": "Formovie XMing Page One projector (XMM2101, tianshan, MediaTek MT9630)",
+    "os": "Google TV (Android 11)"
+  },
+  {
+    "brand": "Freebox",
+    "tv": "Freebox Player POP (Free, fbx8am, Amlogic), IPTV/DVB-T box",
+    "os": "Android TV 10"
+  },
+  {
+    "brand": "Gadnic",
+    "tv": "Gadnic PROJ100W projector (built-in Google TV stick: SkyworthDigital YYT, Amlogic HP46B), Argentina",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Google",
+    "tv": "Google Chromecast with Google TV 4K (sabrina)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Google",
+    "tv": "Google Chromecast with Google TV HD (boreal)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Google",
+    "tv": "Google TV Streamer 4K (kirkwood, GZRNL)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Grundig",
+    "tv": "Grundig 50 GFU 7850 B 50\" (Arçelik, CO3Plus, sinchon, MediaTek), Turkey",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Grundig",
+    "tv": "Grundig 50VLX22LDLBV (Arçelik, CO3Plus, sinchon, MediaTek), Netherlands",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Grundig",
+    "tv": "Grundig Android UHD TV (Arçelik, GxGrNM, kunyang, MediaTek), Turkey",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "HAAM",
+    "tv": "HAAM HM4K75S11TND (SCBC R4)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Haier",
+    "tv": "Haier Android TV DVB2K (broadway, HaierATVT56DVB; also sold as the CANDY Android TV DVB2K, CANDYATVT56)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Haier",
+    "tv": "Haier H32S80EFX (MatrixTV CE, HRT56EU, deto, MediaTek), Thailand",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Haier",
+    "tv": "Haier MatrixTV GE (HR9216EU, haeundae, MediaTek), EU",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Haier",
+    "tv": "Haier HRA962X2 (HRA962X2_2G_ALI6G_A)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Haier",
+    "tv": "Haier MatrixTV BE",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Haier",
+    "tv": "Haier MatrixTV DE (HR9676EUF, omonia, MediaTek)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Hikeen",
+    "tv": "Hikeen smart TV (\"Smart\"/SmartTV, Realtek RTD285O, Zeasn)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense 65D62QH (VIDAA_TV, MediaTek MT9653), China",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense 65E5H (VIDAA_TV, MediaTek MT9652, hisense_m7642_cn), China",
+    "os": "Android 9"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense 85E7Q (VIDAA_TV, MediaTek MT9655), China",
+    "os": "Android 14"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense VIDAA_TV (AMLOGICT963), China; retail model unconfirmed",
+    "os": "Android 9"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense E5Q Pro (VIDAA_TV, MediaTek MT9653), China",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense 55QD6QF Fire TV (AFTOLCBC82, ginza), Canada",
+    "os": "Fire OS 8.1.8.0 / Android 11"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense Fire TV (AFTCIBFBD1, coyote, MediaTek), US",
+    "os": "Fire OS 8.0 / Android 11"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense HG9 (HiSmart 4K A4FFM)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense HiSmart 2K ATV4 (hamamatsucho), India",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense HiSmartTV A4 (xiaoyushan, MStar m7322), India",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense HiSmartTV A4 (xiaoyushan, MStar m7322), Android 11 firmware RTT2.221108.001",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense SmartTV 4K FFM (huangshan, MediaTek), Latin America; also the US Hisense U9DG",
+    "os": "Android TV 10"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense SmartTV 4K FFM (songshan, MediaTek m7632); also the US Hisense 50A6H4 and 65U6G",
+    "os": "Android 11 (SDK 30)"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense SmartTV 4K FFM (lushan, MediaTek MT9676), Mongolia; Hisense 65QD5N (lushan), US",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense U7 / 55U7SG (wutaishan, MediaTek MT9690), US",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Hisense",
+    "tv": "Hisense U75 / 75U75N / 65U7ESG (hengshan, MediaTek), Latin America and US",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Hitachi",
+    "tv": "Hitachi 65QLEDSM20 (MTC, bangbae, MediaTek m7322), Australia",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Hitachi",
+    "tv": "Hitachi CDH-LE32SMART21 (TCL-built C06, C06_2K_GB, MediaTek MT9221, 1 GB), Argentina",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Home+",
+    "tv": "Home+ STB-6252C (中嘉寬頻, Inspur, MT5221), DVB-C/OTT box",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "HOTACK",
+    "tv": "HOTACK L018 Smart Projector (Allwinner H713, reports ADT-3, LuminaOS)",
+    "os": "Android 11"
+  },
+  {
+    "brand": "HOTACK",
+    "tv": "HOTACK SMART2KPJT projector, \"Whale TV 95C8\" (Amlogic am30b8, WhaleOS S8E, Zeasn firmware)",
+    "os": "Android 13"
+  },
+  {
+    "brand": "HY320",
+    "tv": "HY320 projector (t950s_be311, Google-certified Android TV)",
+    "os": "Android 13"
+  },
+  {
+    "brand": "Impex",
+    "tv": "Impex evoQ 4K (Changhong, GTVU64IP, board alimos, MediaTek mt5896), India",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "INCLO",
+    "tv": "INCLO Google TV 4K (KTC, Realtek, khardi, KTC_INCLO_4K_EU_23GV1), Taiwan",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "Indurama",
+    "tv": "Indurama Google TV 4K (KTC hongkong, ISDB)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Insignia Fire TV",
+    "tv": "Insignia 42\" F20 Fire TV (NS-42F201NA22, AFTEAMR311, blanche)",
+    "os": "Fire OS 6.7.1.1 / Android 7.1.2"
+  },
+  {
+    "brand": "Insignia Fire TV",
+    "tv": "Insignia 55\" F30 4K Fire TV (NS-55F301NA25, AFTDCT31, duckie)",
+    "os": "Fire OS 7 / Android 9"
+  },
+  {
+    "brand": "Jio",
+    "tv": "Jio STB C200A (Jio, 4KOTTSTB, MSTB, Amlogic)",
+    "os": "Android 11 (AOSP, no Google services)"
+  },
+  {
+    "brand": "JMGO",
+    "tv": "JMGO N1S 4K projector (S91A, lonavla, MediaTek m7632)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "JMGO",
+    "tv": "JMGO N1S projector (K80A, holan, MediaTek m7332), Australia",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "JVC",
+    "tv": "JVC 4K Smart TV (KTC, MediaTek merak / mt5896, elliniko, KTC_JVC_4K_24GV1)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "JVC",
+    "tv": "JVC Android TV (Vestel-built, BARTU_Jvc, menlo, MediaTek mt5867), Spain",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "JVC",
+    "tv": "JVC LT-43KM348 (KTC-built, KTC_JVC_2K_25GV1, jagalchi, MediaTek mt5867 / T56)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "JVC",
+    "tv": "JVC LT-43KM4584",
+    "os": "Android TV 14 (UKN7.260716.013)"
+  },
+  {
+    "brand": "JVC",
+    "tv": "JVC LT55MB508 (MTC, seocho, MediaTek MSD6886), Brazil",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "JVC",
+    "tv": "JVC LT-58CA810 (UK 4K Android TV, MTC, MTCMSD6886UK, sadang, MediaTek m7322), UK",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Kalley",
+    "tv": "Kalley 43G200 (device R3_GTV, MOKA, Realtek RTD2841A), Latin America",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Kalley",
+    "tv": "Kalley R10G (device R10G, product ACER_FFM, MOKA, Realtek RTD2875P), Latin America",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Karbonn",
+    "tv": "Karbonn / Motorola SWTV-20AE (Skyworth OEM, SW4H, MediaTek), India",
+    "os": "Android TV 10"
+  },
+  {
+    "brand": "Kodak",
+    "tv": "Kodak 55CA0909 (SPPL-built, Skyworth SW3_ATV, MediaTek MT5886), India",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Kogan",
+    "tv": "Kogan G7 (Expressluck, cottongreen, Realtek), Australia",
+    "os": "Google TV (Android 11)"
+  },
+  {
+    "brand": "Kogan",
+    "tv": "Kogan Google TV (Changhong CHiQ AI PONT, GTVU65KG, dangni, MediaTek mt5867), Australia",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Koryo",
+    "tv": "Koryo 55\" 4K Smart TV (CVTE TP.HV553.PC821B, HiSilicon Hi3751V553, 1 GB)",
+    "os": "Android 7.0"
+  },
+  {
+    "brand": "KTC",
+    "tv": "KTC 4K Smart TV (device hongkong, MediaTek), Taiwan",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "KUNFT",
+    "tv": "KUNFT K8415H40F (Changhong AI PONT, redwood, DVB92KT)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Liberton",
+    "tv": "Liberton LTV 24H01AT (Liberton, built by Changhong, device redwood), Ukraine",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Lumio",
+    "tv": "Lumio Arc 5 Projector (MediaTek)",
+    "os": "Google TV"
+  },
+  {
+    "brand": "Lumio",
+    "tv": "Lumio Vision 7 55\" (KTC ODM, Realtek, khardi, KTC_LUMIO_4K_EU_23GV1), India",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "LYNCAST",
+    "tv": "LYNCAST X3AQ (H726 Focus)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Magcubic",
+    "tv": "Magcubic HY300 Pro projector (rk3566_rgo, device adt3, Askey)",
+    "os": "Android 11"
+  },
+  {
+    "brand": "Magcubic",
+    "tv": "Magcubic HY300 Pro+ projector (rk3566_rgo)",
+    "os": "Android 14"
+  },
+  {
+    "brand": "MarQ",
+    "tv": "MarQ 4K Android TV (bangbae, MTC / MediaTek)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Master-G",
+    "tv": "Master-G Android TV 2K (Expressluck martin, MASTERG_2K_ATV), Chile",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Master-G",
+    "tv": "Master-G MGA3200 (SCBC R1, Realtek; Android reports model `ATV R1`), Chile",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "MECOOL",
+    "tv": "MECOOL KM2 Plus",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Motorola",
+    "tv": "Motorola MT4310 (Newsan; Hisense board, hayward, MediaTek), Argentina",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Motorola",
+    "tv": "Motorola SWTV-24AE-4K (Skyworth OEM, eleonas, MediaTek), India",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Motorola",
+    "tv": "Motorola / Coocaa / Telefunken SWTV-24AE-FHD (24LP6000G, Skyworth OEM, beomil), India/SEA/Tunisia",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "MTC",
+    "tv": "MTC UK 2K Android TV (tabata, MediaTek m5621; JVC-family firmware, `android.autoinstalls.config.JVC` present), UK",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Next",
+    "tv": "Next Start Pro 4K TV Box (SDT HPR314-Next, Realtek RTD1325), Turkey, streaming box",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Noblex",
+    "tv": "Noblex DB58X7550 (Changhong AI PONT, ISDB93CH, sindorim, MediaTek m7322), Argentina",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Noblex",
+    "tv": "Noblex DR55X9500 (Skyworth SW6H, MediaTek m7332, same board and firmware as `prismplus-p4ka-sw6h/`), Argentina",
+    "os": "Android TV 11 (Google TV home)"
+  },
+  {
+    "brand": "Noblex",
+    "tv": "Noblex NoblexTV (Skyworth-built, shinjuku, MediaTek m5621), Argentina",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Nokia",
+    "tv": "Nokia ATV R2 (SCBC R2, Realtek RTD285O)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Nokia",
+    "tv": "Nokia R4 smart TV (Realtek, R4)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Nokia",
+    "tv": "Nokia Streaming Box 8000 (Sagemcom/NES, SEI600NK4, HND, Amlogic)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Nokia",
+    "tv": "Nokia Streaming Box 8010 (Sagemcom/NES, SEI804NK, YYJ, Amlogic)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "NVIDIA Shield",
+    "tv": "NVIDIA SHIELD TV 2017 (darcy)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "NVIDIA Shield",
+    "tv": "NVIDIA SHIELD TV 2019 tube (P3430, sif)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "NVIDIA Shield",
+    "tv": "NVIDIA SHIELD TV Pro 2019 (P2897, mdarcy)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "OK.",
+    "tv": "OK. AI PONT (Changhong, ikebukuro, MediaTek), Italy; also Nikkei DVB91NK; also Saba SA40S67A9",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "OnePlus",
+    "tv": "OnePlus TV (C00, Cebu, MediaTek m7632), India",
+    "os": "Android TV 10 and 11"
+  },
+  {
+    "brand": "OnePlus",
+    "tv": "OnePlus TV (Dosa, Oneplus_Dosa_IN)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "OnePlus",
+    "tv": "OnePlus TV (D00, Dubai)",
+    "os": "Android TV 11 / Google TV 14"
+  },
+  {
+    "brand": "OnePlus",
+    "tv": "OnePlus Y1 43\" / Model Y 32\" (Y Series, shibuya)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "onn",
+    "tv": "onn. 4K Plus Streaming (2025, Walmart; coffey, Amlogic S905X5M), US",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "onn",
+    "tv": "onn 4K Pro Streaming Device (Gen 2, Walmart; jarvis2, Amlogic S905X5M), US",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "onn",
+    "tv": "onn 4K Streaming Box (2023, Walmart; YOC, Amlogic), US",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "OPPO",
+    "tv": "OPPO K9 55 (OPPOCNM632)",
+    "os": "Android 9 (ColorOS TV)"
+  },
+  {
+    "brand": "Panasonic",
+    "tv": "Panasonic 4KTV-0SU (Skyworth-built SW4H, MediaTek m7332), Gulf region",
+    "os": "Android TV 10"
+  },
+  {
+    "brand": "Panasonic",
+    "tv": "Panasonic 4KTV-3MUP / TH-65MX660DX (MOKA R4_GTV, Realtek rtd2851m), Taiwan and India",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Panasonic",
+    "tv": "Panasonic 4KTV-3SU (Skyworth-built SW6H, MediaTek, same board as `thomson-sppl-4k-sw6h/`), ~1.9 GB",
+    "os": "Android TV 14 (Google TV home)"
+  },
+  {
+    "brand": "Panasonic",
+    "tv": "Panasonic 4KTV-JUP (Jupiter_PA, MediaTek)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Panasonic",
+    "tv": "Panasonic GS655 (Skyworth-built SW1, shibuya, MediaTek m5621)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Panasonic",
+    "tv": "Panasonic Google TV LCD (OZUM_Panasonic, kowloon, MediaTek)",
+    "os": "Android 14"
+  },
+  {
+    "brand": "Panasonic",
+    "tv": "Panasonic TH-40HS550K (Skyworth-built, GS655 shibuya, MediaTek)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Panavox",
+    "tv": "PANAVOX Google TV (dongnae)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "PEAQ",
+    "tv": "PEAQ PTV 43AQU-5023C (Changhong, reports OK. AI PONT, dundas, MediaTek m7332)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Philco",
+    "tv": "Philco Smart TV (Skyworth-built, sunnyvale, MediaTek), Brazil",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 49PUS6561/12 / 55PUS6581/12 (TP Vision QM163E, QM16XE_U, MediaTek MT5890), Europe and Turkey",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 50PUD7406/43 (TPV, PH0M_EA_T32, MStar/MediaTek), Chile; 55PUS7906/12, Lithuania; 50PUS7906/12, Germany; 43PUS7406/12, Italy; 50PUD7406/77, Latin America; 50PUS8107/12, EU; 65PUS7956, EU",
+    "os": "Android TV 11 and 14"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 50PUF7099/T3 (TPV EBONY_V560, Hisilicon), China",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 50PUS8517/12 (TP Vision, PH1M_EA_9970A, MediaTek MT5895), Europe",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 55OLED707/12 / 55OLED887/12 / 77OLED806/12 / 65OLED707/12 (TP Vision, PH1M_EA_9970A, MediaTek MT5895), UK, Poland, Germany and Croatia",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 55OLED708/12 (TPV, PH1M_WW_9972, MediaTek), Poland",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 55OLED820/12 (TPV, PH1M_WW_9972, MediaTek), Czech Republic",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 55POS9002/12 OLED (TP Vision TPM171E, PH7M_EU_5596, MediaTek MT5891), Europe",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 55PUS7503/12 and 50PUS7303/12 (TP Vision TPM171E, PH7M_EU_5596, MediaTek MT5891), Europe",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 65OLED706/12 (TP Vision, PH1M_EA_9970A, MediaTek MT5895), France; 55OLED706/12, Poland",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 65OLED807/12 (TP Vision, PH1M_EA_9970A, MediaTek MT5895), Germany",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 65OLED907/12 and 55OLED907/12 (TP Vision, PH1M_EA_9970A, MediaTek MT5895), UK and France",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 65PML9506/12 (TP Vision, PH1M_EA_9970A, MediaTek), Spain",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 65PQT8169/56 (KTC, KTC_PHILIPS_4K_DVB_22GV1, hongkong, MediaTek m7632), UAE",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 65PUS8102/12 (TP Vision TPM171E, PH7M_EU_5596, MediaTek MT5891), Europe",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 65PUS9435/12 / 55PUS9435/12 (TP Vision TPM191E, PH9M_EA_5599, MediaTek MT5887), Germany",
+    "os": "Android TV 12"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 75PUS8505/12 / 58PUS8555/12 (TP Vision TPM191E, PH9M_EA_5599, MediaTek MT5887), Europe",
+    "os": "Android TV 12"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 77OLED810/12 (TPV, PH1M_WW_9972, MediaTek), Germany",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips 65PUS8729/60 (TPV, PH1M_WW_9972, MediaTek), Russia; 55OLED718/12, Bulgaria",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips Google TV TA7 (TPV, PH3M_AL_T32, MediaTek), Brazil; 55PUD7908/77, Latin America; 50PUD7408/77, Argentina; 55PUG7908/78, Brazil",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips R8G Google TV (MOKA, whitefield, Realtek RTD2851F), US",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips Smart 4K TV (Skyworth, eleonas, MediaTek), India",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Philips",
+    "tv": "Philips TPM191E / 50PUS8505 / 55OLED854 / 65OLED804 / 50PUS7354 / 43PUS7304 / 65PUS8204 / 65PUS7354 / 70PUS8545 / 58PUS8505 (TP Vision, PH9M_EA_5599, MediaTek MT5887), Europe",
+    "os": "Android TV 12"
+  },
+  {
+    "brand": "Polytron",
+    "tv": "Polytron 2K (WLTV POLYTRON2K, hayward; Hisense/CVTE board, MediaTek mt5867), Indonesia",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Portronics",
+    "tv": "Portronics Beem 470 Smart LED Projector (Allwinner H713, 1 GB), India",
+    "os": "Android 11"
+  },
+  {
+    "brand": "PPTV",
+    "tv": "PPTV p34a4p (Suning PPTV, Amlogic board), China",
+    "os": "Android 5.1.1"
+  },
+  {
+    "brand": "PRISM+",
+    "tv": "PRISM+ P4KA 4K AI TV (device SW6H, made by Skyworth/Coocaa)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "PRISM+",
+    "tv": "PRISM+ Q65 Ultra 2026 QLED 4K AI Google TV (R10G, PRISMPLUS_FFM, MOKA, Realtek RTD2875 SoC, RTD6748 platform)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Prosonic",
+    "tv": "Prosonic Android TV (Vestel-built, BODRUM, finch, MediaTek m7332), Denmark",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "RCA",
+    "tv": "RCA 2K Android TV (KONKA, device lasalle, Realtek RTD2841A, ISDB)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "RCA",
+    "tv": "RCA AI PONT SA (Changhong, redwood, ISDB92RC; also sold as realme 40-inch, AIWA AW32B4SMG, CHiQ AI PONT DVB92CQ and ERGO DVB92YC)",
+    "os": "Android 14"
+  },
+  {
+    "brand": "RCA",
+    "tv": "RCA RC50A21S-4KSM, Zeasn home (Toptech firmware RTK2851P, Realtek RTD2851P, board mac6p)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Redmi",
+    "tv": "Redmi TV (MiTV-ANTL0, starwars)",
+    "os": "Android 5.1.1 (not Android TV)"
+  },
+  {
+    "brand": "Redmi",
+    "tv": "Redmi TV (MiTV-MFTP0, alita), China firmware 23.2.10.6129",
+    "os": "Android TV 9 (CN build)"
+  },
+  {
+    "brand": "Redmi",
+    "tv": "Redmi TV 43\" (MiTV-MOOQ3, tarzan)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "RockTek",
+    "tv": "RockTek G2 (RT-G2, SEI Robotics/NES, SEI804RT, YYJ, Amlogic S905X4)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "RockTek",
+    "tv": "RockTek GB1",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "RockTek",
+    "tv": "RockTek GX1 (HPR3A1325_4K)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Salora",
+    "tv": "Salora SMART24TV (Vestel-built, Ata/Aslan, tokyo, MediaTek m5621), Italy",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "SAMPO",
+    "tv": "SAMPO OLED-55ZW8212 (SWTV-22TW-4K, Skyworth anaheim, MediaTek), Taiwan",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "Sankey",
+    "tv": "Sankey SMART_TV (CVTE, HiSilicon Hi3751V350, 1 GB)",
+    "os": "Android 12"
+  },
+  {
+    "brand": "Sankey",
+    "tv": "Sankey SMART2KTVSE (Whale OS, SiliconPlayer am30bm)",
+    "os": "Android TV 13"
+  },
+  {
+    "brand": "SANYO",
+    "tv": "SANYO ATV R2 (SCBC, Realtek RTD285O)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sber",
+    "tv": "Sber Salute TV 43\" (CVTE TP.T962D4.PC756, Amlogic T962D4, at30a6, 2 GB), Russia",
+    "os": "StarOS 1.101 / Android 13"
+  },
+  {
+    "brand": "Sber",
+    "tv": "Sber Salute TV 32\" (CVTE TPD.MT9216.PB766, MediaTek MT9256, 1 GB), Russia",
+    "os": "StarOS 1.103 / Android 11"
+  },
+  {
+    "brand": "Seleco",
+    "tv": "Seleco TV39020HDA9SMART 39\" (AT_SmartScreen, Toptech + Zeasn, Realtek RTK2842P), Italy",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "SEMP TCL 50P8M (Chassis R851T02, Realtek RTD2851)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "SHARP",
+    "tv": "SHARP 2K EU Android TV (Expressluck martin, MediaTek mt5867), EU",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "SHARP",
+    "tv": "SHARP 2T-C32GH3000I (SHARP 2K Smart TV-A; Skyworth-built, beomil, MediaTek mt5867), Indonesia",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "SHARP",
+    "tv": "SHARP AQUOS 4T-C43DL1 (AQUOS-TVJ21-2, tcve2uj, MediaTek), Japan",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "SHARP",
+    "tv": "SHARP 55GP6260E (Sharp Google TV, kaitak, MediaTek MTK9612), EU",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "SHARP",
+    "tv": "SHARP 85HP5465E (Sharp Google TV, maniatika, MediaTek MT9676), EU",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "SHARP",
+    "tv": "Sharp AQUOS-TVE19C and TVE19A (sindang, CVTE/MStar)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "SHARP",
+    "tv": "SHARP AQUOS TVE21F (AQUOS-TVE21F, banqiao, CVTE/MediaTek), UK",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "SHARP",
+    "tv": "SHARP AQUOS TVE23A (AQUOS-TVE23A, sandiego, CVTE/MediaTek mt5889), Denmark",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "SHARP",
+    "tv": "SHARP AQUOS-TVX18 (AQUOS-TVX18, tcth2ux, MediaTek MT5891), Asia",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "SHARP",
+    "tv": "SHARP AQUOS-TVX19B (AQUOS-TVX19B, gangnam, MediaTek m7322), Taiwan",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Síragon",
+    "tv": "Síragon 4K Smart TV (KTC, MediaTek MT9676, elliniko, KTC_SIRAGON_4K_24GV1), Venezuela",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Síragon",
+    "tv": "Síragon 58DA7000 (KTC, MediaTek MT7632, zhongshan, KTC_SIRAGON_4K_SA_21V2), Venezuela",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth 43E6A (open_fhd, MediaTek MT5886)",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth 4K Google TV Stick (HP4609-Skyworth)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth 65A3F (7T641_A3F, MediaTek MT9633), China",
+    "os": "Android 13 (CCOS 10.01.250328)"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth 7S60_A5 (sky8S34, 1.9 GB), China market",
+    "os": "Coocaa OS / Android 8"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth 7T861_A23 (MediaTek MT9638), China market",
+    "os": "Coocaa OS / Android 10"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth / Coocaa 8R40_K5C (Realtek rtd285x, 1 GB, 32-bit), China domestic firmware",
+    "os": "Android 8.0 (not Google TV)"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth SW-22HK NF (SW6H, MediaTek m7332)",
+    "os": "Android TV 11 (Google TV home)"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth SW-22SA (SW6H, MediaTek), ~1.9 GB",
+    "os": "Android TV 14 (Google TV home)"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth SWTV-20SA-PRO (SW4H_FF, MediaTek m7332)",
+    "os": "Android TV 10"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth SWTV-21AE (sunnyvale, MediaTek)",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth SWTV-22AE-FHD (umeda, MediaTek), Vietnam/Global",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth SWTV-24AE-4K NF (eleonas, MediaTek mt5896), South Africa/Global",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth SWTV-24NA-4K NF (eleonas, MediaTek mt5896), US",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Skyworth Xiaopai P3 (Q5001, cupid-p2), streaming box",
+    "os": "Android 10"
+  },
+  {
+    "brand": "Smarttech",
+    "tv": "Smarttech Apollo Premium 4K (Expressluck marina, MediaTek m7332, 2 GB)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K GB (KD-75XE8596, KD-55XE9005, KD-65XD7505, XBR-49X705D; BRAVIA_ATV2_EU, BRAVIA_ATV2_BR)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K GB (BRAVIA_ATV2_UC, MediaTek mt5891)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K UR2 (BRAVIA_UR2_4K, MediaTek)",
+    "os": "Android TV 10"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K UR3 / KD-55X8000H / KD-65A8 / XBR-55A8H / KD-43XH8196 (BRAVIA_UR3, MediaTek mt5893), EU, TW and US",
+    "os": "Android TV 10"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K VH1 (KD-55XH9096 / KD-65XH9296 / XBR-55X900H, BRAVIA_VH1, MediaTek MT5895), EU, UK and US",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K VH2 (KD-55X80J / XR-65A83J / XR-55X90JK, BRAVIA_VH2, MediaTek), EU, North America, India and Latin America",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K VH21 (KD-65X85K, 2022, BRAVIA_VH21, MediaTek MT5895), Australia & India",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K VH21 (XR-55A80K, 2022, BRAVIA_VH21, MediaTek mt5895), EU",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K VH21 (KD-43X80K, 2022, BRAVIA_VH21, MediaTek), Latin America",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K VH21 (XRM-65X95K, 2022, BRAVIA_VH21, MediaTek MT5895), Taiwan",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K VH21 (XR-65A95K, XR-55A95K, 2022, BRAVIA_VH21, MediaTek), US",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 8 II (K-55XR8M2, BRAVIA_AE2), UK/EU",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 9 II (K-65XR90M2, BRAVIA_AE3, MediaTek MT5838)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA XR-55A95L (A95L, 2023 QD-OLED; Android reports BRAVIA 4K AE1, BRAVIA_AE_M6L, MediaTek MT5838), EU",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA 4K AE2 (BRAVIA_AE2, MediaTek MT5897), North America",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA BF1 (BRAVIA 2 II class, BRAVIA_BF1_4K_A, MediaTek)",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA TL2 (OD0M_EA_T32, TPV-built, MediaTek), Europe",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA VU1 (KD-43X7500H, KD-65X750H, BRAVIA_VU1_UC, Realtek)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA VU2 (BRAVIA_VU2, Realtek rtd2885m), India",
+    "os": "Android TV 11, 14"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-55X75K (BRAVIA_VU3_4K, Realtek rtd2885m)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA VU31 4K (BRAVIA_VU31_4K, Realtek; BRAVIA 2 K-50S20B), India",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-43X8000G (2019, BRAVIA_ATV3_4K, MediaTek), APAC",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-43X80L / KD-55X80L (2023, BRAVIA_VH22, MediaTek MT5895), EU",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-49X8000G (2019, BRAVIA_ATV3_4K, MediaTek), Hong Kong",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-49X8307C (2015, \"BRAVIA 4K 2015\", SVP-DTV15, MediaTek), EU firmware",
+    "os": "Android TV 7.0"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony KD-55X7500 (BRAVIA 4K GB ATV3, BRAVIA_ATV3_4K_CN), China",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-55X8000C (2015, \"BRAVIA 4K 2015\", SVP-DTV15, MediaTek), China firmware",
+    "os": "Android TV 7.0"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-55X8509C (2015, \"BRAVIA 4K 2015\", SVP-DTV15, MediaTek), EU firmware",
+    "os": "Android TV 7.0"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-55X85J (2021, BRAVIA_VH2, MediaTek MT5895), South America",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-55X9500G (BRAVIA_UR2_4K_CN), China",
+    "os": "Android TV 10"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-55XE8596 (2017, \"BRAVIA 4K GB\", BRAVIA_ATV2_EU, MediaTek MT5891), UK",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-55XF7596 (2018, \"BRAVIA 4K GB ATV3\", BRAVIA_ATV3_4K_EU, MediaTek MT5891), EU",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-55XF8096 (2018, \"BRAVIA 4K GB ATV3\", BRAVIA_ATV3_4K_EU, MediaTek MT5891), Spain; second unit KD-43XF8096, Ukraine",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-65X80J (2021, BRAVIA_VH2, MediaTek), India",
+    "os": "Google TV 10"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-55X82L / KD-65X82L / XR-65X90L / BRAVIA 4K VH22 (2023, BRAVIA_VH22, MediaTek), India, US and Australia",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KD-65X9300D (2016, SVP-DTV15, MediaTek), Asia-Pacific",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KDL-43W950D (2015/2016, SVP-DTV15, MediaTek), India (\"PA\") firmware",
+    "os": "Android TV 8.0.0"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KDL-55W800C (2015, \"BRAVIA 2015\", SVP-DTV15, MediaTek), Taiwan firmware",
+    "os": "Android TV 7.0"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA KJ-55X9300D (2016, SVP-DTV15, MediaTek mt5890), Japan",
+    "os": "Android TV 7.0"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA X9000H (2020, BRAVIA_VH1_CN, MediaTek MT5895), China",
+    "os": "Android TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA XBR-55X805G (2019, BRAVIA_ATV3_4K_BR, MediaTek MT5891), Brazil",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA XBR-55X850C and XBR-75X850C (2015, \"BRAVIA 4K 2015\", SVP-DTV15, MediaTek), US firmware",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA XBR-55X850D (Android model \"BRAVIA 4K 2015\"), firmware 6.827",
+    "os": "Android TV 8.0.0"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA XBR-65X900F (2018, BRAVIA_ATV3_4K, MediaTek MT5891), US/Canada",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA XBR-x805G (BRAVIA_ATV3_4K, MediaTek MT5891), Latin America",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA XBR-65X900E (2017, BRAVIA_ATV2)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony XR-65A80J / XR-55A80J (OLED, 2021, BRAVIA_VH2), EU",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony XR-65X90J (2021, BRAVIA_VH2, MediaTek MT5895), China",
+    "os": "Android TV 10"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony XR-77A80L (77-inch OLED, 2023, BRAVIA_VH22, MediaTek), North America",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Sony",
+    "tv": "Sony BRAVIA XR-85X90L (2023, BRAVIA_VH22, MediaTek), China",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Stellamore",
+    "tv": "Stellamore T950S projector (Droidlogic be30a3, Amlogic txhd2)",
+    "os": "Android 13"
+  },
+  {
+    "brand": "Skyworth",
+    "tv": "Strong LEAP-S3 box (SkyworthDigital YDA, Amlogic S905Y4), Italy",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "STRONG",
+    "tv": "STRONG SRT 43UD6593 (Changhong, reports AI PONT, dundas, MediaTek m7332)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "SunWind",
+    "tv": "SunWind SUN-LED32XS305 32\" (Yandex TV / YaOS, CVTE TP.MT9256.PB721, MediaTek MT9256), Russia",
+    "os": "Android 11"
+  },
+  {
+    "brand": "Super General",
+    "tv": "Super General 55\" 4K (CVTE TP.SK708D.PC821, Amlogic T972, x30a4, 1 GB), Saudi Arabia",
+    "os": "Android 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 32ES570F (C06, C06_2K_GB, MStar mt5867, 939 MB), Italy",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 32L5A (C06, model \"Smart TV\", 1 GB)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 32S334 (BeyondTV5, North America, Realtek RTD2851)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 32S5400A (C06, C06_2K_GB, MediaTek MT9221, 1 GB), 2023",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 32S5K (C06, C06_2K_GB, MediaTek MT9221, 918 MB), EU",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 32SF560 (TCL Fire TV, AFTSHN02, shine)",
+    "os": "Fire OS 7.7.1.7 / Android 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 40S5400A (C06, C06_2K_GB, MediaTek MT9221, 1 GB)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 43C645 / 55C645 (Smart TV Pro, Realtek RTD2851 / R51MT05, V8-R51MT05-LF1V652); also TCL 50C635 / 60C635 (G03_4K_GB, Realtek rtd288o), Spain",
+    "os": "Google TV launcher on Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 43EP660 (Europe, BeyondTV, Realtek rtd285o, V8-R851T02-LF1V378)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 43P615 (Europe, BeyondTV, Realtek RTD2851, AR06)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 43P725 (Smart TV Pro, BeyondTV4, Realtek rtd288o), Italy",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 43S450F-CA (S4 Fire TV Edition, AFTDEC012E, ginza, MediaTek), Canada",
+    "os": "Fire OS 8.1.8.5 / Android 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 43S5400A (C06, C06_2K_GB, MediaTek MT9221, 1 GB)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 43S5K / 32V5C (G13, G13_2K_GB, MediaTek MT9221/MT5867, 1 GB), India; also a G13 unit from Brazil, a 40\" V5C on AU13, a 32V51C from Indonesia (AU13), a second AU10 unit and a 50S5K from Colombia (AU11)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 50C725K (Smart TV Pro, BeyondTV4/BeyondTV6, RTD2851M, Realtek rtd288o, 2 GB), AR10 build",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 50DP660 / L49C2US (\"Percee TV\", tcl_eu, MediaTek MT5658 / board mt5891, V8-T658T01-LF1V602 / V570)",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 50EP680 (Europe, BeyondTV, Realtek rtd285o)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 50J7000A (Thailand, BeyondTV, Realtek RT2851 / rtd285o, AR04, V8-R851T02-LF1V674)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 50P615 (Greece and Türkiye, BeyondTV, Realtek RTD2851 / rtd285o, AR05)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 50P735 (BeyondTV4, Smart TV Pro)",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 50S434 (4-Series, C03_4K_NA, BeyondTV4, Realtek rtd288o, 2 GB), US AR02 build",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55A300W picture-frame TV (2023, G08, G08_4K_US_NF, MediaTek MT9653), US",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55C715 QLED (Europe, BeyondTV2, Realtek RTD2851, V8-R851T02-LF1V606); also TCL 55C718 (Finland, same build)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55C725 (Smart TV Pro, BeyondTV4, G03_4K_GB, Realtek R51MT05, V8-R51MT05-LF1V620), Italy; also TCL 65C655 Pro (same build)",
+    "os": "Google TV launcher on Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55C745, 2023 (G08, G08_4K_GB, MediaTek tcl9618)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55C7K QD-Mini LED, 2025, UK (G08, MediaTek tcl9618)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55C815 (2020, Europe/Denmark, BeyondTV2, Realtek rtd285o)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55EP640 (Greece, BeyondTV, Realtek RTD2851 / rtd285o, AR04)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55P638 (Smart TV, BeyondTV4)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55P7K, Middle East (G10, G10_4K_GB, Realtek RTD2875P); also TCL 55C655, Italy, and TCL 55T7B, Turkey (same build)",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55P8LS QD-Mini LED, Vietnam (G10, G10_4K_GB_32BIT, Realtek rtd6748)",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55Q6CX1 (Smart TV Pro, G08, G08_4K_GB, MediaTek)",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55Q7D Pro (Smart TV Pro, G08, G08_4K_GB, MediaTek tcl9618), EU Google TV build",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55S470G (G10, G10_4K_US_NF, Realtek), US; also TCL 65S450G-CA, Canada (same build)",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55S546 (5-Series, G03_4K_US, BeyondTV4, GTV93), US",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 58S571F (TCL Fire TV, AFTDEC012E, ginza, MediaTek mt5896), US",
+    "os": "Fire OS 8 / Android 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65C6K (Smart TV Pro, G08, G08_4K_GB, MediaTek tcl9618 / mt5896, SoC MT9689), Latin America; also TCL 55C6K, Vietnam & India",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65C725 (Smart TV Pro, BeyondTV4)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65C735 (Smart TV Pro, G05, MediaTek), France; also TCL 55C728, Turkey, TCL 65C935, France, and TCL 65C745, France",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65C7K (Smart TV Pro, G08, G08_4K_GB, MediaTek mt5896), Brazil and Australia",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65C7L (Smart TV Pro, G08, G08_4K_GB, MediaTek tcl9618), 2025, Australia",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65C8L (Smart TV Pro, G17, G17_4K_GB, MediaTek tcl9655), 2025, Australia",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65EP640 (Finland, BeyondTV, Realtek RTD2851 / rtd285o, AP06)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65EP68 (Europe, BeyondTV, Realtek RTD2851 / rtd285o, V8-R851T02-LF1V722)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65MQLED80 (Smart TV Pro, G08, MediaTek tcl9618), Norway",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65P615 (Europe, BeyondTV, Realtek RTD2851, AP06, V8-R851T02-LF1V637)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65Q550G (TCL Smart TV, Google TV 11, V8-R51MT08-LF1V095.021344)",
+    "os": "Google TV"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65Q650G (US Q6 2023, BeyondTV4, Realtek RTD2851 / R51MT08, V8-R51MT08-LF1V095, 2 GB)",
+    "os": "Google TV launcher on Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65QM8L (Smart TV Pro, G17, G17_4K_US, MediaTek tcl9655), 2025, US",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 65X10 QLED (France, BeyondTV2, Realtek RTD2851, V8-R851T02-LF1V363)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 75A300 Pro (G08, G08_4K_GB_NF, MediaTek)",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 75P635 (Smart TV, BeyondTV4, G07), AR07 build",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 75P8K, Europe / Nordics (G10, G10_4K_GB / C6KS, Realtek RTD2875P / rtd6748)",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 85RM7L (G08, G08_4K_GB, MediaTek tcl9618)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL ak30a5 (China, Amlogic)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL BeyondTV (India)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 50P8S (BeyondTV), Japan (Realtek RTD2851, V8-R851T03-LF1V153)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL BeyondTV, Poland (Realtek RTD2851, AP03, 2 GB)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL BeyondTV, EU/Nordic (Realtek RTD2851, V8-R851T02-LF1V606)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL BeyondTV2, Android 11 build (AR05, Realtek rtd285o); also sold as the Hitachi CDH-LE554KSMART22 (Argentina); also the TCL 65P615 (product BeyondTV, ME firmware) and the TCL 43A8 (product BeyondTV, AR04)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL BeyondTV2 (Latin America / Brazil, Realtek RTD2851); also confirmed on a 55\" unit",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL Smart TV Pro, UK Freeview Play (BeyondTV4 / BeyondTV6, Realtek rtd288o, 2 GB, AR05)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL C635 (Smart TV Pro, BeyondTV4, Realtek rtd288o, Android 11/SDK 30), Brazil",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL C755 QD-Mini LED, 2024, Australia and UAE (G08, MediaTek tcl9618)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55C845X2 / 75C845X2, UK/Europe (G08_4K_GB, MediaTek tcl9618)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL C89B 85\", 2024, a local variant of the C855; also TCL 65C89K, France (G08, G08_4K_GB, MediaTek tcl9618)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL Smart TV Pro (G03, G03_4K_GB / G03_4K_US, BeyondTV4, Realtek R51MT05 / R51MT08, V8-R51MT05-LF1V620 / LF1V652 / LF1V813, V8-R51MT08-LF1V053), Middle East, EU (TCL 50C641), US (TCL 65S45G) and Latin America firmware, TCL 50S546, TCL 43P739",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL Smart TV Pro (G05, G05_4K_US, MediaTek MT5889); also TCL 55Q750G",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 40\" Smart TV (G06, MediaTek MT9221 / T221, AR2101, V8-T221T02-LF1V058), Indonesia",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL Smart TV (G06, G06_2K_US, MediaTek MT9221 / T221, AR2101, V8-T221T04-LF1V122), US firmware",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL Smart TV (G07, G07_4K_GB_NF, Realtek RTD2851A, 2 GB)",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL Smart TV Pro (G08, G08_4K_GB, MediaTek), Australian firmware",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL Smart TV Pro (G08, G08_4K_GB, MediaTek), Europe/UK firmware",
+    "os": "Android TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 75T7 / 55Q77K (Smart TV Pro, G08, G08_4K_US, MediaTek tcl9618), US firmware",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL Smart TV Pro (G09, G09_4K_GB, Amlogic T5M, 2 GB), UK firmware, Brazil",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55\" 4K Google TV, 2023 (G10, G10_4K_US_NF); also TCL 55P6K, Spain and TCL 43P69K, Netherlands (G10_4K_GB_NF_32BIT); and TCL 55Q651G, US (G10_4K_US_NF); and TCL 55Q6CS, India (G10_4K_GB); and TCL 55C6KS, Italy (G10_4K_GB); and TCL 55C69B, France (G10_4K_GB)",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL L40S66E (C06, C06_2K_GB, MediaTek MT9221, 1 GB), Argentina",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL / FFalcon China (tcl9655_cn, MediaTek MT9655 \"merak\", UTT2.250416.001 AU01)",
+    "os": "Android 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL 55Q10G Pro (China, tcl_mt5879_cn, MediaTek MT9952)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL Q7C (Smart TV Pro, G08, G08_4K_GB, MediaTek tcl9618), European firmware",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL QM6K Pro, 2025 (G08, MediaTek tcl9618)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL tc8000_ay30a2 (China, Amlogic ohm, TC8000, 3.8 GB)",
+    "os": "Android 11"
+  },
+  {
+    "brand": "TCL",
+    "tv": "TCL UnionTV, Latin America (TCL-built like Thomson 32HE5800, Realtek RT2841); also confirmed on a TCL 32S6500S and L40S6500 (persist.tcl.client_type TCL-LA-RT41KB-S1) and a TCL-CA-RT41KA-S1 unit",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TD Systems",
+    "tv": "TD Systems (Changhong, redwood, DVB92TD, CH17F40S)",
+    "os": "Android 14"
+  },
+  {
+    "brand": "Magyar Telekom",
+    "tv": "Magyar Telekom TV box (SDMC DV8519B, Amlogic, 2 GB), Hungary",
+    "os": "Android TV 12"
+  },
+  {
+    "brand": "Tele System",
+    "tv": "Tele System TS ON T2/HD (ONT2HD, SDMC, Amlogic), Italy",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Tesla",
+    "tv": "Tesla Smart TV Q55E655GUS (Expressluck, sepolia, mt5896)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Thomson",
+    "tv": "Thomson 32HE5800 (TCL-built UnionTV, Realtek RT2841), Spain",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Thomson",
+    "tv": "Thomson 43RT1055 FA Series (SPPL-built, sauve, Realtek RTD2841A), India",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Thomson",
+    "tv": "Thomson SPPL 4K Google TV (Skyworth SW6H, MediaTek, same board as `skyworth-sw-22sa/`), India, ~1.9 GB",
+    "os": "Android TV 14 (Google TV home)"
+  },
+  {
+    "brand": "Thomson",
+    "tv": "Thomson T32RTL6000 (SCBC, Realtek; Android reports model `ATV R1`)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "TIM",
+    "tv": "TIM TIMVISION Box (Technicolor DWT765TI, Marvell Berlin), Italy",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "TIM",
+    "tv": "TIM TIMVISION Box (Vantiva/Technicolor UZW4010TIM, Marvell BG4CT), Italy",
+    "os": "Android TV 8.0"
+  },
+  {
+    "brand": "TiVo",
+    "tv": "TiVo Stream 4K (SEI Robotics IPA1104HDW, SEI400TV, Amlogic S905Y2, NES)",
+    "os": "Android TV 12"
+  },
+  {
+    "brand": "Tornado",
+    "tv": "Tornado 65UA1400E (El Araby, Skyworth-built SW4H, MediaTek m7332), Egypt",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Toshiba",
+    "tv": "Toshiba 43V35KP (hayward, huashan_emT; Hisense/CVTE board, MediaTek mt5867), EU",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Toshiba",
+    "tv": "Toshiba 55M550LP (Hisense-built, songshan, MediaTek m7632), Malaysia",
+    "os": "Android 11 (SDK 30)"
+  },
+  {
+    "brand": "Toshiba",
+    "tv": "Toshiba 65UA2363DG (Vestel-built, BODRUM_Toshiba, finch, MediaTek m7332), France",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Toshiba",
+    "tv": "Toshiba (Vestel Cosmos170, yeoksam, MediaTek), Spain",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Toshiba",
+    "tv": "Toshiba Fire TV (AFTHA004, hazel)",
+    "os": "Fire OS 7 / Android 9"
+  },
+  {
+    "brand": "Toshiba",
+    "tv": "Toshiba Android TV (Vestel shandao, MediaTek), UK, build RTM6.230109.207",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Turkcell",
+    "tv": "Turkcell TV+ 4K Box (SDMC DV6069Y, Amlogic), Turkey, operator streaming box",
+    "os": "Android TV 10"
+  },
+  {
+    "brand": "Tuvio",
+    "tv": "Tuvio TD43UFBCV5 / TD50UFBCV5 (Changhong AI PONT, DVB96, MediaTek m7632), Russia",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Verizon",
+    "tv": "Verizon Stream TV, 1st gen (WNC JS8V, Amlogic), US",
+    "os": "Android 12"
+  },
+  {
+    "brand": "Vidda",
+    "tv": "Vidda C1S and C1 4K laser projectors (VIDAA_TV, device MT9669, board m7642), China JuUI",
+    "os": "Android 9"
+  },
+  {
+    "brand": "Vidda",
+    "tv": "Vidda VIDAA_TV (Hisense sub-brand; device MT9653, board mt5879), China JuUI",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "VISIO",
+    "tv": "VISIO 32\" (VISIO TV / Iris 2K TV, shinagawa, MediaTek m5621)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Vision",
+    "tv": "Vision 2024VISION43STV (CVTE TP.T950D4T.PB751, Amlogic T950D4, 1 GB), Europe",
+    "os": "Android 13"
+  },
+  {
+    "brand": "Vityas",
+    "tv": "Vityas Hi TV 50 (KTC/KGZN build, board m7332)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Vu",
+    "tv": "Vu 4K (HVCL, lushan, MediaTek), India",
+    "os": "Google TV 12"
+  },
+  {
+    "brand": "Vu",
+    "tv": "Vu Premium FHD 43-inch (Smart 2K ATV4, hamamatsucho), India",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Vu",
+    "tv": "Vu VIBE TV (KONKA, bandra, Realtek), India",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Wanbo",
+    "tv": "Wanbo X5 Pro projector (built-in Google TV stick: SkyworthDigital YYT, Amlogic), Australia",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "XGIMI",
+    "tv": "XGIMI Horizon 20 projector (XR13A, kasol)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "XGIMI",
+    "tv": "XGIMI Horizon S Pro / Halo+ / Horizon Pro projector (XK03H, xgimigalileo, MediaTek)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "XGIMI",
+    "tv": "XGIMI MoGo 2 projector (MoGo, xgimiapollo, pokemon)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "XGIMI",
+    "tv": "XGIMI MoGo 3 Pro projector (G0035, altai, MediaTek)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "XGIMI",
+    "tv": "XGIMI MoGo 4 projector (WK08K, altai, MediaTek)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "XGIMI",
+    "tv": "XGIMI MoGo 4 Laser projector (WK03K, altai, MediaTek)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "XGIMI",
+    "tv": "XGIMI RS10 Ultra projector (device pig_chivalrous, MediaTek m7642), China",
+    "os": "Android 9"
+  },
+  {
+    "brand": "XGIMI",
+    "tv": "XGIMI Vibe One projector (WM03H, altai, MediaTek m7332)",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi F2 Fire TV (AFTMA2857F, shine)",
+    "os": "Fire OS 7.7.1.7 / Android 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Fire TV (AFTNE4E43F, ginzaeu)",
+    "os": "Fire OS 8.1.8.5 / Android 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Mi Box 3 (MIBOX3, once), streaming box",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Mi Box 4S Pro (MiTV-AZFP0, frozen), China",
+    "os": "Android 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Mi Box S (MIBOX4, oneday), streaming box",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Mi Box S 2nd gen (MiTV-AFKR0, jaws), streaming box",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Mi Box S (MIBOX4, oneday), streaming box, Android 12 update",
+    "os": "Android TV 12"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Mi TV 4A (MiTV-MOOQ1)",
+    "os": "Android TV 10 and 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-AESP0 stick (aquaman, 1 GB)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi TV Box S 3rd gen (MiTV-AFMU0, twilight, Amlogic), streaming box",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi TV Stick 4K 2nd gen (MiTV-AFMU1, twilight, adastra, Amlogic), streaming stick",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-ANSP0 (小米电视5 Pro 65\", jobs, Amlogic), China firmware 23.6.5.3226, 4 GB RAM",
+    "os": "Android TV 9 (CN build)"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-ASTP0 (mulan, sold as L55M7-EA), China firmware 22.12.2.1630, 1.5 GB RAM",
+    "os": "Android TV 9 (CN build)"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-ASTP1 (maverick), China firmware 2.40.641.0514.cn, 1 GB RAM, 720p",
+    "os": "Android TV 9 (CN build)"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Redmi Smart TV A Pro 55\" 2025 Energy-saving (MiTV-ASTR0, blueplanet, Amlogic), China firmware OS3.0.106.0.USTAATV, 3 GB RAM",
+    "os": "Android 14 (HyperOS 3, CN build)"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-AXFR0 (rango, Amlogic, 1 GB), India",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-AXFR1 (rango, Amlogic, 1 GB), India",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-AXFR2 (watchmen, MediaTek, 1 GB), India",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi TV A Pro 32\" (MiTV-AXFU0, arctictale, Amlogic)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-AXSO0 (dangal; Mi TV 4C Pro 2019 / 4A Pro)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-AXSO1 (dangalFHD, India)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-AXSO2 (dangalUHD, India, 2 GB)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi TV Stick 4K (MiTV-AYFR0, soul, Amlogic), streaming stick",
+    "os": "Android TV 14"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi TV S Pro 100 Mini LED 2025 (小米电视 S Pro 100, L100MB-SP, MiTV-MFFU0, finch, MediaTek), China firmware OS3.0.115.0.UFFMATV, 4 GB RAM",
+    "os": "Android 14 (HyperOS 3, CN build)"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-MFTR0 (freeguy, MediaTek mt9653), China firmware OS2.0.23.0.RFTMATV (HyperOS TV 2)",
+    "os": "Android 11 (HyperOS TV 2, CN build)"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi TV S Mini LED 75 2025 (MiTV-MOEU0, ladybird, MediaTek)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Mi TV (MiTV-MOOQ0, croods; includes P1 43\" EU variant)",
+    "os": "Android TV 10 and 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Mi TV P1 43\" (MiTV-MOOQ2, croods)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-MOOR0 (venom, MediaTek)",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-MOOR2 / MOOR4 / MOOR6 (venom, MediaTek)",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-MOSR1 (hermano)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-MOSR4 (irobot, MediaTek)",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-MSSP0 / Xiaomi Mi TV 4A 32 (amelie), firmware PI.5926",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-MSSP1 (nino), firmware PI.5925; also sold as Mi TV 4S",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-MSSP2 (volver, MediaTek), firmware PI.4621, low-RAM",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-MSSP3 (machuca, MediaTek)",
+    "os": "Android TV 11"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV-MSSP3 (machuca, MediaTek), Android 9 firmware PI.7524",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi TV EA Pro 55\" (MiTV-MTEQ0, baymax, MediaTek), China firmware 23.6.26.4028",
+    "os": "Android TV 10 (CN build)"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi MiTV4I (magnolia, Amlogic)",
+    "os": "Android TV 9"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Smart Projector (C025RGN, tianshan, FORMOVIE ODM, MediaTek T32)",
+    "os": "Google TV (Android 14)"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi Smart Projector L1 Pro (C045RGN, tianshan, FORMOVIE ODM, MediaTek T32)",
+    "os": "Google TV (Android 14)"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi TV A Pro 55\"/75\" 2026 (MiTV-MZTU0, river, MediaTek)",
+    "os": "Google TV 14"
+  },
+  {
+    "brand": "Xiaomi",
+    "tv": "Xiaomi TV A43 2025 (MiTV-MOOQ1)",
+    "os": "Google TV 11"
+  },
+  {
+    "brand": "X.Vision",
+    "tv": "X.Vision 50XYU765 (XYU Series, MAADIRAN; CVTE TP.MT9632.PC752, MediaTek m7332, 1.5 GB), Iran",
+    "os": "Android 11"
+  }
+]

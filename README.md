@@ -51,3 +51,8 @@ cd Sokol_CleanTV
 `launcher/` уже содержит изменения Sokol_CleanTV. Повторно выполнять `launcher-patch.py` или `prepare.ps1` после клонирования не требуется. Готовое приложение появится в `dist/Sokol_CleanTV/`. Кеши, ключ сборки, резервные копии и двоичные зависимости хранятся локально.
 
 Проверка автоматическими тестами выполняется командой `python -m unittest discover -s tests -v`. Предпросмотр интерфейса без подключения к ТВ — `python app.py --screenshot work/preview`. Тесты используют поддельный ADB и не меняют телевизоры.
+
+
+## Android-версия
+
+Телефонное приложение находится в папке [android-app](android-app/README.md) отдельной ветки `android-app`. Для установки на телефон используйте APK из [Android-релиза](https://github.com/sokolovroman163-creator/Sokol_CleanTV/releases/tag/android-v0.1.0). Windows-версия и её релизы сохраняются отдельно.
