@@ -1,0 +1,17 @@
+{
+  "version": "1.8.2",
+  "byedpi": {
+    "armeabi-v7a": {
+      "file": "ByeByeDPI-v1.8.2-armeabi-v7a-release.apk",
+      "sha256": "422f40c340b8dbf8f07dad42958ccae8a5b508218c838e9f7afddec6f403065f",
+      "url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.8.2/ByeByeDPI-v1.8.2-armeabi-v7a-release.apk"
+    },
+    "arm64-v8a": {
+      "file": "ByeByeDPI-v1.8.2-arm64-v8a-release.apk",
+      "sha256": "ec24d44c2f20240a4a55f88d78f4715c017e0c849cd56165ccf128d98c5c3470",
+      "url": "https://github.com/romanvht/ByeByeDPI/releases/download/v.1.8.2/ByeByeDPI-v1.8.2-arm64-v8a-release.apk"
+    }
+  },
+  "source": "https://github.com/romanvht/ByeByeDPI/releases/tag/v.1.8.2",
+  "certificate": "77451075acea406406475d74d459883a49a64051faf32e42f718f3f9777a8dfb"
+}

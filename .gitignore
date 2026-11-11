@@ -1,0 +1,14 @@
+work/
+dist/
+vendor/
+launcher/.gradle/
+launcher/**/build/
+launcher/local.properties
+__pycache__/
+*.pyc
+*.apk
+*.exe
+*.keystore
+*.jks
+adbkey*
+backups/
