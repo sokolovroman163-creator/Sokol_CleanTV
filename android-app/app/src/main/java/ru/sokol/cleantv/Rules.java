@@ -95,8 +95,17 @@ final class Rules {
                 "com.cltv.mal")
             .contains(p)) return "Главный экран или важная функция ТВ";
     for (String prefix :
-        new String[] {"com.android.", "android.", "com.mediatek.", "com.cvte.", "com.mstar."})
-      if (p.startsWith(prefix)) return "Системный компонент телевизора";
+        new String[] {
+          "com.android.",
+          "android.",
+          "com.mediatek.",
+          "com.cvte.",
+          "com.mstar.",
+          "com.droidlogic.",
+          "com.mitv.",
+          "mitv.",
+          "com.xiaomi.mitv."
+        }) if (p.startsWith(prefix)) return "Системный компонент телевизора";
     if (p.startsWith("com.google.") && !OPTIONAL.contains(p)) return "Служба Google или Android";
     for (String word :
         new String[] {

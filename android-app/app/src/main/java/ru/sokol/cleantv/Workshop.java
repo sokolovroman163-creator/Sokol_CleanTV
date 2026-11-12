@@ -349,20 +349,7 @@ final class Workshop {
   }
 
   void verifyHome(String component) throws Exception {
-    if (!Rules.fullComponent(currentHome()).equals(Rules.fullComponent(component)))
-      throw new IOException("Новый главный экран не стал основным.");
-    shell("input keyevent KEYCODE_HOME");
-    for (int i = 0; i < 5; i++) {
-      String focus = shell("dumpsys activity activities");
-      if (Pattern.compile(
-              "(?:mResumedActivity|topResumedActivity|mFocusedApp)[^\\n]*"
-                  + Pattern.quote(component.split("/")[0])
-                  + "/")
-          .matcher(focus)
-          .find()) return;
-      Thread.sleep(600);
-    }
-    throw new IOException("Телевизор не показал главный экран. Прежний экран будет возвращён.");
+    new HomeHandover(adb, text -> {}).verify(component);
   }
 
   void newHome(File dir) throws Exception {
@@ -372,29 +359,16 @@ final class Workshop {
       throw new IOException(
           "Для этого главного экрана автоматическая замена пока не проверена. Очистка и ByeByeDPI"
               + " доступны отдельно.");
+    JSONObject backup = validate(dir);
+    if (!Rules.fullComponent(original).equals(Rules.fullComponent(backup.getString("home"))))
+      throw new IOException("Главный экран изменился после создания копии. Подключитесь заново.");
     install(dir, "tvhome.apk", Rules.HOME);
     if (old.equals(Rules.HOME)) return;
-    String target = Rules.HOME + "/.MainActivity";
-    try {
-      shell("pm enable --user 0 " + Rules.HOME);
-      String start = shell("am start -W -n " + target);
-      if (start.contains("Error") || start.contains("Exception")) throw new IOException(start);
-      shell("cmd package set-home-activity --user 0 " + target);
-      verifyHome(target);
-      // Stock stays installed; its exact previous state is in the immutable backup.
-      boolean cvte = device.packages.stream().anyMatch(p -> p.startsWith("com.cvte."));
-      if (!cvte) {
-        journal(dir, "running", "Новый главный экран проверен. Отключаю прежний экран…");
-        setState(old, 3);
-        verifyHome(target);
-      }
-    } catch (Exception failure) {
-      shell("pm enable --user 0 " + old);
-      shell("cmd package set-home-activity --user 0 " + original);
-      shell("input keyevent KEYCODE_HOME");
-      journal(dir, "failed", "Возвращён прежний главный экран. " + failure.getMessage());
-      throw failure;
-    }
+    JSONObject states = backup.getJSONObject("states");
+    int before = states.isNull(Rules.HOME) ? 3 : states.getInt(Rules.HOME);
+    boolean keepStock = device.packages.stream().anyMatch(p -> p.startsWith("com.cvte."));
+    new HomeHandover(adb, text -> journal(dir, "running", text))
+        .change(original, Rules.HOME + "/.MainActivity", keepStock, states.getInt(old), before);
   }
 
   String apply(Set<String> names, boolean home, boolean dpi, List<File> wallpapers)

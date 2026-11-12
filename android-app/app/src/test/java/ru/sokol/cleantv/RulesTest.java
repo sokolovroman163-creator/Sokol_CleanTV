@@ -7,6 +7,21 @@ import org.junit.Test;
 
 public class RulesTest {
   @Test
+  public void protectsXiaomiAndAmlogicServicesReportedByUser() {
+    for (String p :
+        List.of(
+            "com.droidlogic.ble",
+            "com.droidlogic.overlay",
+            "com.mitv.download.service",
+            "com.mitv.milinkservice",
+            "com.mitv.tvhome.atv",
+            "com.mitv.tvhome.michannel",
+            "com.mitv.videoplayer",
+            "com.xiaomi.mitv.res",
+            "mitv.service")) assertFalse(p, Rules.protect(p).isEmpty());
+  }
+
+  @Test
   public void acceptsOnlyPrivateIPv4AndValidPorts() {
     assertArrayEquals(new String[] {"192.168.1.90", "5555"}, Rules.endpoint("192.168.1.90"));
     assertEquals("37000", Rules.endpoint("10.0.0.1:37000")[1]);

@@ -951,7 +951,7 @@ public final class MainActivity extends Activity {
                 + " меню производителя.\n\n"
                 + "5. Разрешите подключение на экране ТВ с пульта.\n\n"
                 + "После работы выключите отладку и отзовите разрешения.\n\n"
-                + "Sokol_CleanTV 0.1.0 · Android-версия")
+                + "Sokol_CleanTV 0.1.1 · Android-версия")
         .setPositiveButton("Понятно", null)
         .setNeutralButton("Журнал", (a, b) -> showLog())
         .show();
